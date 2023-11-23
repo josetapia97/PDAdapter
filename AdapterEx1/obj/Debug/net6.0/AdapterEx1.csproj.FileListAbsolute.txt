@@ -1,0 +1,14 @@
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Adapter\AdapterEx1\bin\Debug\net6.0\AdapterEx1.exe
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Adapter\AdapterEx1\bin\Debug\net6.0\AdapterEx1.deps.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Adapter\AdapterEx1\bin\Debug\net6.0\AdapterEx1.runtimeconfig.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Adapter\AdapterEx1\bin\Debug\net6.0\AdapterEx1.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Adapter\AdapterEx1\bin\Debug\net6.0\AdapterEx1.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Adapter\AdapterEx1\obj\Debug\net6.0\AdapterEx1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Adapter\AdapterEx1\obj\Debug\net6.0\AdapterEx1.AssemblyInfoInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Adapter\AdapterEx1\obj\Debug\net6.0\AdapterEx1.AssemblyInfo.cs
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Adapter\AdapterEx1\obj\Debug\net6.0\AdapterEx1.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Adapter\AdapterEx1\obj\Debug\net6.0\AdapterEx1.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Adapter\AdapterEx1\obj\Debug\net6.0\refint\AdapterEx1.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Adapter\AdapterEx1\obj\Debug\net6.0\AdapterEx1.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Adapter\AdapterEx1\obj\Debug\net6.0\AdapterEx1.genruntimeconfig.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Adapter\AdapterEx1\obj\Debug\net6.0\ref\AdapterEx1.dll
