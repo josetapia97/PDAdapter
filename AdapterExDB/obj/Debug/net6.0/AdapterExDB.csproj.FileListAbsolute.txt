@@ -1,0 +1,14 @@
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Adapter\AdapterExDB\bin\Debug\net6.0\AdapterExDB.exe
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Adapter\AdapterExDB\bin\Debug\net6.0\AdapterExDB.deps.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Adapter\AdapterExDB\bin\Debug\net6.0\AdapterExDB.runtimeconfig.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Adapter\AdapterExDB\bin\Debug\net6.0\AdapterExDB.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Adapter\AdapterExDB\bin\Debug\net6.0\AdapterExDB.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Adapter\AdapterExDB\obj\Debug\net6.0\AdapterExDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Adapter\AdapterExDB\obj\Debug\net6.0\AdapterExDB.AssemblyInfoInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Adapter\AdapterExDB\obj\Debug\net6.0\AdapterExDB.AssemblyInfo.cs
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Adapter\AdapterExDB\obj\Debug\net6.0\AdapterExDB.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Adapter\AdapterExDB\obj\Debug\net6.0\AdapterExDB.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Adapter\AdapterExDB\obj\Debug\net6.0\refint\AdapterExDB.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Adapter\AdapterExDB\obj\Debug\net6.0\AdapterExDB.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Adapter\AdapterExDB\obj\Debug\net6.0\AdapterExDB.genruntimeconfig.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Adapter\AdapterExDB\obj\Debug\net6.0\ref\AdapterExDB.dll
